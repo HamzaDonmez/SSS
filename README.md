@@ -3,6 +3,7 @@
 [Filmler](#filmler) • [Hakkımda](#hakkimda) • [İletişim](#iletisim)
 
 
+
 # Hakkımda
 -Ben kimim?
 2004 doğumlu, hayatını bilgisayar başında geçirmiş bir öğrenciyim. Hayalim olan oyun sektörüne girebilmek için programlama öğrenmeye çalışıyorum. 

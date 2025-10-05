@@ -92,7 +92,6 @@ Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer payla�
 - 
 # Iletisim
 
--hamzadonmez53@gmail.com
-
--[LINKEDIN](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
+[![Gmail](https://img.shields.io/badge/Gmail-DM-blue?style=flat&logo=gmail)](mailto:hamzadonmez53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
 

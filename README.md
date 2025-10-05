@@ -6,8 +6,8 @@
 
 # Hakkımda
 -Ben kimim?
-2004 doğumlu, hayatını bilgisayar başında geçirmiş bir öğrenciyim. Hayalim olan oyun sektörüne girebilmek için programlama öğrenmeye çalışıyorum. 
-Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer paylaşımlarımdan biri bile size yardımcı olursa, bu beni çok mutlu eder.
+### 2004 doğumlu, hayatını bilgisayar başında geçirmiş bir öğrenciyim. Hayalim olan oyun sektörüne girebilmek için programlama öğrenmeye çalışıyorum. ###
+### Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer paylaşımlarımdan biri bile size yardımcı olursa, bu beni çok mutlu eder. ###
 
 # Filmler
 
@@ -30,14 +30,17 @@ Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer payla�
 - [Cyrano de Bergerac](https://www.imdb.com/title/tt0099334/)  
 - [12 Angry Men](https://www.imdb.com/title/tt0050083/)  
 - [Esaretin Bedeli (The Shawshank Redemption)](https://www.imdb.com/title/tt0111161/)  
-- [The Lighthouse](https://www.imdb.com/title/tt7984734/)  
-
+- [The Lighthouse](https://www.imdb.com/title/tt7984734/)
+- [Parasite](https://www.imdb.com/title/tt6751668/)
+  
 ## Gerilim ve Gizem
 
 - [The Hateful Eight](https://www.imdb.com/title/tt3460252/)    
 - [Skinwalker Ranch](https://www.imdb.com/title/tt2881698/)  
 - [Funny Games (1997)](https://www.imdb.com/title/tt0119167/)  
-
+- [The VVitch: A New-England Folktale](https://www.imdb.com/title/tt4263482/)
+- [The Exorcism of Emily Rose](https://www.imdb.com/title/tt0404032/)
+  
 ## Uzay ve Bilim Kurgu
 
 - [No One Will Save You](https://www.imdb.com/title/tt14509110/)  
@@ -71,7 +74,7 @@ Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer payla�
 - [Good Morning, Vietnam](https://www.imdb.com/title/tt0093105/)  
 - [Mehmed: Fatihler Sultanı](https://www.imdb.com/title/tt31323988/)
 - [Gallipoli](https://www.imdb.com/title/tt3577058/)
-- 
+  
 ## Aksiyon, Suç ve Distopya
 
 - [Taxi Driver](https://www.imdb.com/title/tt0075314/)  
@@ -83,15 +86,17 @@ Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer payla�
 - [The Crow (1994)](https://www.imdb.com/title/tt0109506/)  
 - [Underworld](https://www.imdb.com/title/tt0320691/)  
 - [28 Days Later](https://www.imdb.com/title/tt0289043/)  
-- [Threads](https://www.imdb.com/title/tt0090163/)  
-
+- [Threads](https://www.imdb.com/title/tt0090163/)
+- [the good the bad and the ugly](https://www.imdb.com/title/tt0060196/)
+  
 ## Komedi
 - [Chances Are](https://www.imdb.com/title/tt0097044/)  
 - [Idiocracy](https://www.imdb.com/title/tt0387808/)
 - [The Dictator](https://www.imdb.com/title/tt1645170/)
-- 
+  
 # Iletisim
 
 [![Gmail](https://img.shields.io/badge/Gmail-DM-blue?style=flat&logo=gmail)](mailto:hamzadonmez53@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
 

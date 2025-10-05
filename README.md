@@ -1,6 +1,6 @@
 # SSS
 
-[Filmler](#filmler) • [Hakkımda](#hakkimda) • [İletişim](#iletisim)
+[Filmler](#filmler) • [Hakkımda](#hakkimda) • [Iletisim](#iletisim)
 
 
 
@@ -90,7 +90,7 @@ Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer payla�
 - [Idiocracy](https://www.imdb.com/title/tt0387808/)
 - [The Dictator](https://www.imdb.com/title/tt1645170/)
 - 
-# İletişim
+# Iletisim
 
 -hamzadonmez53@gmail.com
 

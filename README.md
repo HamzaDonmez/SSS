@@ -10,6 +10,7 @@
 ### Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer paylaşımlarımdan biri bile size yardımcı olursa, bu beni çok mutlu eder. ###
 
 # Projelerim 
+• 
 [AI Assistant](https://github.com/HamzaDonmez/Gemini-Voice-AI-Assistant)  
 • 
 [Basic Data Scraper](https://github.com/HamzaDonmez/Basic-Level-Data-Scraper-Example-Basit-Seviye-Veri-Kaziyici-)

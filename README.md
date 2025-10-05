@@ -2,10 +2,93 @@
 
 [Filmler](#-filmler) • [Hakkımda](#-hakkımda) • [İletişim](#-iletişim)
 
+# Hakkımda
+-Ben kimim?
+2004 doğumlu, hayatını bilgisayar başında geçirmiş bir öğrenciyim. Hayalim olan oyun sektörüne girebilmek için programlama öğrenmeye çalışıyorum. 
+Kendimi geliştirirken sizinle de bir şeyler paylaşmak istiyorum. Eğer paylaşımlarımdan biri bile size yardımcı olursa, bu beni çok mutlu eder.
 
 # Filmler
 
-# Hakkımda
+## Dram ve Psikoloji
 
+- [Rain Man](https://www.imdb.com/title/tt0095953/)  
+- [Shutter Island](https://www.imdb.com/title/tt1130884/)  
+- [Into the Wild](https://www.imdb.com/title/tt0758758/)  
+- [Yeşil Yol (The Green Mile)](https://www.imdb.com/title/tt0120689/)  
+- [Fight Club](https://www.imdb.com/title/tt0137523/)  
+- [Truman Show](https://www.imdb.com/title/tt0120382/)  
+- [The Pianist](https://www.imdb.com/title/tt0253474/)  
+- [Forrest Gump](https://www.imdb.com/title/tt0109830/)  
+- [Good Will Hunting](https://www.imdb.com/title/tt0119217/)  
+- [A Beautiful Mind](https://www.imdb.com/title/tt0268978/)  
+- [American Beauty](https://www.imdb.com/title/tt0169547/)  
+- [No Country for Old Men](https://www.imdb.com/title/tt0477348/)  
+- [Persepolis](https://www.imdb.com/title/tt0808151/)  
+- [The Breadwinner](https://www.imdb.com/title/tt1655442/)  
+- [Cyrano de Bergerac](https://www.imdb.com/title/tt0118936/)  
+- [12 Angry Men](https://www.imdb.com/title/tt0050083/)  
+- [Esaretin Bedeli (The Shawshank Redemption)](https://www.imdb.com/title/tt0111161/)  
+- [The Lighthouse](https://www.imdb.com/title/tt7984734/)  
+
+## Gerilim ve Gizem
+
+- [The Hateful Eight](https://www.imdb.com/title/tt3460252/)  
+- [Carface (Scarface?)](https://www.imdb.com/title/tt0086250/)  
+- [The Similars](https://www.imdb.com/title/tt6427094/)  
+- [No One Will Save You](https://www.imdb.com/title/tt13110512/)  
+- [Skinwalker Ranch](https://www.imdb.com/title/tt2881698/)  
+- [Funny Games (1997)](https://www.imdb.com/title/tt0119167/)  
+
+## Uzay ve Bilim Kurgu
+
+- [The Man from Earth](https://www.imdb.com/title/tt0756683/)  
+- [The Abyss](https://www.imdb.com/title/tt0096754/)  
+- [The Martian](https://www.imdb.com/title/tt0448134/)  
+- [Sunshine](https://www.imdb.common/title/tt0448134/) 
+- [Life](https://www.imdb.com/title/tt5442430/)  
+- [Sphere](https://www.imdb.com/title/tt0120338/)  
+- [Contact](https://www.imdb.com/title/tt0118884/)  
+- [Event Horizon](https://www.imdb.com/title/tt0119081/)  
+- [Arrival](https://www.imdb.com/title/tt2543164/)  
+- [The Fourth Kind](https://www.imdb.com/title/tt0787504/)  
+- [Signs](https://www.imdb.com/title/tt0286106/)  
+- [Alien (1979)](https://www.imdb.com/title/tt0078748/)  
+- [Fire in the Sky](https://www.imdb.com/title/tt0106609/)  
+
+## Savaş ve Tarih
+
+- [The King](https://www.imdb.com/title/tt4016934/)  
+- [Kalashnikov](https://www.imdb.com/title/tt10059386/)  
+- [Im Westen Nichts Neues (All Quiet on the Western Front)](https://www.imdb.com/title/tt1037705/)  
+- [Black Hawk Down](https://www.imdb.com/title/tt0265086/)  
+- [Downfall](https://www.imdb.com/title/tt0363163/)  
+- [Hitler: The Rise of Evil](https://www.imdb.com/title/tt0274937/)  
+- [Lord of War](https://www.imdb.com/title/tt0399295/)  
+- [Life Is Beautiful](https://www.imdb.com/title/tt0118799/)  
+- [The Last Samurai](https://www.imdb.com/title/tt0325710/)  
+- [Fury](https://www.imdb.com/title/tt2713180/)  
+- [Saving Private Ryan](https://www.imdb.com/title/tt0120815/)  
+- [Good Morning, Vietnam](https://www.imdb.com/title/tt0109444/)  
+
+## Aksiyon, Suç ve Distopya
+
+- [Taxi Driver](https://www.imdb.com/title/tt0075314/)  
+- [V for Vendetta](https://www.imdb.com/title/tt0434409/)  
+- [Scarface](https://www.imdb.com/title/tt0086250/)  
+- [Cast Away](https://www.imdb.com/title/tt0162222/)  
+- [Django Unchained](https://www.imdb.com/title/tt1853728/)  
+- [Pulp Fiction](https://www.imdb.com/title/tt0110912/)  
+- [Pirates of the Caribbean Film Series](https://www.imdb.com/list/ls023657263/)  
+- [The Crow (1994)](https://www.imdb.com/title/tt0109506/)  
+- [Underworld](https://www.imdb.com/title/tt0320691/)  
+- [28 Days Later](https://www.imdb.com/title/tt0289043/)  
+- [Threads](https://www.imdb.com/title/tt0085114/)  
+- [Idiocracy](https://www.imdb.com/title/tt0387808/)  
+- [Chances Are](https://www.imdb.com/title/tt0094429/)  
 
 # İletişim
+
+-hamzadonmez53@gmail.com
+
+-[LINKEDIN](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
+

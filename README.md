@@ -14,9 +14,9 @@
 [AI Assistant](https://github.com/HamzaDonmez/Gemini-Voice-AI-Assistant)  
 • 
 [Basic Data Scraper](https://github.com/HamzaDonmez/Basic-Level-Data-Scraper-Example-Basit-Seviye-Veri-Kaziyici-)
+• 
+[GEMAID](https://github.com/HamzaDonmez/GEMAID)
 
-
-  
 # Iletisim
 
 [![Gmail](https://img.shields.io/badge/Gmail-DM-blue?style=flat&logo=gmail)](mailto:hamzadonmez53@gmail.com)

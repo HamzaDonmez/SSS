@@ -15,6 +15,19 @@
 • 
 [Basic Data Scraper](https://github.com/HamzaDonmez/Basic-Level-Data-Scraper-Example-Basit-Seviye-Veri-Kaziyici-)
 
+
+  
+# Iletisim
+
+[![Gmail](https://img.shields.io/badge/Gmail-DM-blue?style=flat&logo=gmail)](mailto:hamzadonmez53@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
+
+
+
+
+
+
 # Filmler
 
 ## Dram ve Psikoloji
@@ -99,10 +112,4 @@
 - [Chances Are](https://www.imdb.com/title/tt0097044/)  
 - [Idiocracy](https://www.imdb.com/title/tt0387808/)
 - [The Dictator](https://www.imdb.com/title/tt1645170/)
-  
-# Iletisim
-
-[![Gmail](https://img.shields.io/badge/Gmail-DM-blue?style=flat&logo=gmail)](mailto:hamzadonmez53@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-d%C3%B6nmez-4907b9383/)
 

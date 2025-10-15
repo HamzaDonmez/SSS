@@ -75,7 +75,8 @@
 - [The Fourth Kind](https://www.imdb.com/title/tt1220198/)  
 - [Signs](https://www.imdb.com/title/tt0286106/)  
 - [Alien (1979)](https://www.imdb.com/title/tt0078748/)  
-- [Fire in the Sky](https://www.imdb.com/title/tt0106912/)  
+- [Fire in the Sky](https://www.imdb.com/title/tt0106912/)
+- [Dreamcatcher](https://www.imdb.com/title/tt0285531/)
 
 ## Savaş ve Tarih
 

@@ -60,7 +60,7 @@
 - [The VVitch: A New-England Folktale](https://www.imdb.com/title/tt4263482/)
 - [The Exorcism of Emily Rose](https://www.imdb.com/title/tt0404032/)
   
-## Uzay ve Bilim Kurgu
+## Uzay/Uzaylı ve Bilim Kurgu
 
 - [No One Will Save You](https://www.imdb.com/title/tt14509110/)  
 - [The Man from Earth](https://www.imdb.com/title/tt0756683/)  

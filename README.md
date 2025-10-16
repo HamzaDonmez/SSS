@@ -1,6 +1,6 @@
 # SSS
 
-[Filmler](#filmler) • [Hakkımda](#hakkimda) • [Iletisim](#iletisim) • [Projelerim](#Projelerim)
+[Hakkımda](#hakkimda) • [Iletisim](#iletisim) • [Projelerim](#Projelerim)
 
 
 
